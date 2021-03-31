@@ -10,4 +10,3 @@ Here are some information about me :
 - 📫 How to reach me: ... [My Instagram](https://instagram.com/yahya.mallak)
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Yeah, I'm Moroccan
--->
