@@ -11,4 +11,4 @@ Here are some information about me :
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Yeah, I'm Moroccan
 
-![text](https://en.wikipedia.org/wiki/Flag_of_Morocco#/media/File:Flag_of_Morocco.svg)
+![](https://upload.wikimedia.org/wikipedia/commons/2/2c/Flag_of_Morocco.svg)
