@@ -2,7 +2,7 @@
 
 Here are some information about me :
 
-- 🔭 I’m currently working on ... iilma
+- 🔭 I’m currently working on ... Qiossa
 - 🌱 I’m currently learning ... Laravel
 - 👯 I’m looking to collaborate on ... a Tech project
 - 🤔 I’m looking for help with ... DevOps
